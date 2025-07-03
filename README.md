@@ -52,4 +52,6 @@ Welcome to the image uploader app repository! This project includes frontend and
 The `npm start` command starts both the frontend and backend development servers concurrently. Once running, you can access the application at `http://localhost:<port>` (check the console output for the exact port).
    
 <img width="1509" alt="Screenshot 2025-07-03 at 12 11 48 PM" src="https://github.com/user-attachments/assets/af39e1fe-a038-4b77-91f4-13f3a32017e0" />
-<img width="1508" alt="Screenshot 2025-07-03 at 12 13 03 PM" src="https://github.com/user-attachments/assets/049c053c-e62c-4e66-8425-cd2c88ad12dc" />
+<img width="1508" alt="Screenshot 2025-07-03 at 12 13 03 PM" src="h<img width="1512" alt="Screenshot 2025-07-03 at 12 25 20 PM" src="https://github.com/user-attachments/assets/d84d7f23-70a6-454c-b24e-cceeb70e8ac7" />
+ttps://github.com/user-attachments/assets/049c053c-e62c-4e66-8425-cd2c88ad12dc" />
+

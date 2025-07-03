@@ -35,8 +35,10 @@ Welcome to the image uploader app repository! This project includes frontend and
    ```bash
    cd ..
    ```
-
-7. **Start the development server**:
+7. **Add posgres connection string to .env file**
+   ```bash DATABASE_URL="CONNECTION STRING"```
+   
+8. **Start the development server**:
    ```bash
    npm start
    ```

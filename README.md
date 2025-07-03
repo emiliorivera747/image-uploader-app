@@ -35,7 +35,7 @@ Welcome to the image uploader app repository! This project includes frontend and
    ```bash
    cd ..
    ```
-7. **Add posgres connection string to .env file**
+7. **Add postgres connection string to .env file**
    ```bash
    DATABASE_URL="CONNECTION STRING"
    ```

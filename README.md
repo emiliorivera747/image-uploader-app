@@ -7,7 +7,7 @@ Welcome to the image uploader app repository! This project includes frontend and
 
 1. **Clone the repository**:
       ```bash
-   https://github.com/emiliorivera747/image-uploader-app.git
+   git clone https://github.com/emiliorivera747/image-uploader-app.git
    cd image-uploader-app/
    ```
 2. **Install project dependencies**:
